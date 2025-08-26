@@ -61,8 +61,8 @@ The application ingests customer support ticket data, preprocesses it with rich 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/2201AI24/customer-support-prediction.git
-   cd customer-support-prediction
+   git clone https://github.com/kkrishnateja/Customer-Experience-Analytics-Sentiment-and-Resolution-Prediction.git
+   cd Customer-Experience-Analytics-Sentiment-and-Resolution-Prediction
    ```
 2. Install dependencies:
 
@@ -80,7 +80,7 @@ The application ingests customer support ticket data, preprocesses it with rich 
 ## 📁 Project Structure
 
 ```
-customer-support-prediction/
+Customer-Experience-Analytics-Sentiment-and-Resolution-Prediction/
 ├── app/
 │   └── app.py                  # Streamlit interface
 ├── models/
